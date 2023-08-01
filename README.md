@@ -1,7 +1,7 @@
 # ML Kit Showcase App
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vnschneider/ml_kit_showcase_app/main/assets/images/mlkit_showcaseapp_logo.png" alt="App Logo" width="200">
+  <img src="assets/images/mlkit_showcaseapp_logo.png" alt="App Logo" width="200">
 </p>
 
 Este repositório contém o código-fonte e os recursos do aplicativo ML Kit Showcase, desenvolvido como parte de um trabalho escolar da disciplina de Cálculo II. O aplicativo demonstra de forma prática como as integrais são aplicadas em visão computacional, utilizando a biblioteca ML Kit do Google.
