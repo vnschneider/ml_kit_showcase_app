@@ -198,12 +198,12 @@ class _CameraViewState extends State<CameraView> {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           _changingCameraLens
-                              ? Card(
+                              ? const Card(
                                   child: Padding(
-                                    padding: const EdgeInsets.all(12.0),
+                                    padding: EdgeInsets.all(12.0),
                                     child: Column(
                                       mainAxisSize: MainAxisSize.min,
-                                      children: const [
+                                      children: [
                                         CircularProgressIndicator(),
                                         Text('Aguardando a câmera...'),
                                       ],
