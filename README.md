@@ -33,7 +33,7 @@ O ML Kit Showcase App possui as seguintes funcionalidades principais:
 
 ## Download
 
-- A versão mais recente do aplicativo pode ser baixada na seção [Releases](https://github.com/vnschneider/ml_kit_showcase_app/releases/tag/Release) deste repositório.
+- A versão mais recente do aplicativo pode ser baixada na seção [Releases](https://github.com/vnschneider/ml_kit_showcase_app/releases/tag/release) deste repositório.
 
 ## Contribuição
 
